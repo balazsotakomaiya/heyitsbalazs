@@ -6,8 +6,7 @@ I'm Balazs - a 19 yr old Software Engineer from Budapest 🇭🇺, currently wor
 🏗️ I love building things, and I've found programming to be the lowest common denominator that allows me to express my creativity in the digital age.
 
 ## Exciting stuff I'm working on:  
-🕰️ [**Await**](https://getawait.com) – A beautifully crafted open-source waitlist management system  
-🎮 [**Avatag**](https://avatag.hu) – Gameserver hosting built with simplicity and ease-of-use above all *(only available in Hungarian for now)*
+🕰️ [**Await**](https://getawait.com) – A beautifully crafted open-source waitlist management system
 
 There's a ton more ideas in the works, so watch this space 😊
 
