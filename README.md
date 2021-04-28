@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/heeyitsbalazs?style=social)
 
 I'm Balazs - a 19 yr old Software Engineer from Budapest 🇭🇺, currently working at Booking.com in Manchester 🐝. 
 
